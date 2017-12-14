@@ -1,6 +1,9 @@
+
 # class-name-parser
 
 PHP function for cleaner css class name parsing with conditional logic.
+
+[![Build Status](https://travis-ci.org/bicepsdigital/class-name-parser.svg?branch=master)](https://travis-ci.org/bicepsdigital/class-name-parser)
 
 ### Example
 
