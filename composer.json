@@ -1,0 +1,25 @@
+{
+  "name": "bicepsdigital/class-name-parser",
+  "keywords": [
+    "css",
+    "class",
+    "parser",
+    "php",
+    "functional"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomas Lysek",
+      "email": "tomas@bicepsdigital.com",
+      "homepage": "http://www.bicepsdigital.com",
+      "role": "Developer"
+    }
+  ],
+  "require-dev": {
+    "bicepsdigital/bicepstest": "^1.0"
+  },
+  "autoload": {
+    "files": ["src/class-name-parser.php"]
+  }
+}
