@@ -78,4 +78,8 @@ class ClassNameParserTest extends TestCase {
 
 	}
 
+	public function testArrayOfClasses(){
+		$this->assertClassName( "first", array('first') );
+	}
+
 }
